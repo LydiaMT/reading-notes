@@ -14,6 +14,15 @@ The following is a compilation of notes from the following articles:
 * The terminal might feel intimidating at first, but once you get the hang of it it's a great tool! You feel like you're in the Matrix. 
 
 #### Basic Navigation
+* **pdw** :Print Working Directory - tells you where your current working directory is
+* **ls** :list - this gives you a list of all of the documents or folders in your *current location* . Some variations of a ls command are ls -l, ls /etc, ls -l /etc
+* **Paths** :There are *aboslute* and *relative* paths. Paths start with a root directory, or the primary folder, and each sub folder follows a forward slash i.e.  / . Abolute paths show the entier pathway whereas relatives paths show files in relation to where you currently are in you system. Some other ways to build paths include
+1. tild (~): shortcuts to your home directory
+1. dot (.): shows you your current directory
+1. dotdot (..): references the parent directory
+* **cd** : change directory
+* **pro-tip** : if you suck at spelling, like me, you can always hit tab which will autocomplete your command. 
+
 #### About Files
 
 Return to [README](README.md)
