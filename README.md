@@ -16,3 +16,5 @@ In my words, the following are 3 reminders on how to maintain a growth mindset:
 #### Table of Contents
 - [markdown file](markdown.md)
 - [coders_computer](coders_computer.md)
+
+![Image of Author Lydia Minehan-Tubic](https://avatars1.githubusercontent.com/u/17971269?s=460&u=1beeb7edfd6ed42559fe2e04ace180ec14ebcce3&v=4)
