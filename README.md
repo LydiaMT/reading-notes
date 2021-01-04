@@ -10,9 +10,9 @@ I am passionate about the environment and sustainability. I practice and teach y
 ### Growth Mindset
 In my words, the following are 3 reminders on how to maintain a growth mindset:
 1. Believe that intelligence isn't static. There's always room to grow and learn more. 
-2. You are not genetically born with a finite amount of 'smartness'.
-3. **Believe in yourself!** Even if you can't do something now, if you keep at it you will be able to do it *someday*. 
+1. You are not genetically born with a finite amount of 'smartness'.
+1. **Believe in yourself!** Even if you can't do something now, if you keep at it you will be able to do it *someday*. 
 
 #### Table of Contents
-[markdown file](markdown.md)
-[coders_computer](coders_computer.md)
+- [markdown file](markdown.md)
+- [coders_computer](coders_computer.md)
