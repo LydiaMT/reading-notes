@@ -13,4 +13,6 @@ In my words, the following are 3 reminders on how to maintain a growth mindset:
 2. You are not genetically born with a finite amount of 'smartness'.
 3. **Believe in yourself!** Even if you can't do something now, if you keep at it you will be able to do it *someday*. 
 
-link to my [markdown file](markdown.md)
+#### Table of Contents
+[markdown file](markdown.md)
+[coders_computer](coders_computer.md)
