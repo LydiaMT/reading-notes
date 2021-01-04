@@ -1,6 +1,6 @@
 ### Reading notes for markdowns
 
-The following is a table of notes from [this] (https://guides.github.com/features/mastering-markdown/) masker-markdown article cheatsheet
+The following is a table of notes from [this] (https://guides.github.com/features/mastering-markdown/) mastering-markdown article cheatsheet
 
 
 Topic | Explination
