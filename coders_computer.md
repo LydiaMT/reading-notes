@@ -24,5 +24,9 @@ The following is a compilation of notes from the following articles:
 * **pro-tip** : if you suck at spelling, like me, you can always hit tab which will autocomplete your command. 
 
 #### About Files
+* If you think of your computer as a car, the terminal is like looking 'under the hood'. Under the hood, everything is basically a file. Files are strctures as file [path], and the path can be .txt .png .doc and so on. 
+* Note that commands are case sensitive
+* You sepearte items in your command with spaces. However, if your file has a space in it already, you can put quotes around it so the terminal reads it as one file or you can put a backslash \
+
 
 Return to [README](README.md)
