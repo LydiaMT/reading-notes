@@ -51,3 +51,4 @@ Color is a mix of read, green, and blue. Great cheatsheet on page 251-252
 * HSL Colors (CSS3): Hue 0-360, saturation 100%-0% i.e. full saturation to shades of gray, lightness 0%-100% i.e. black-white
 * HSL & HSLA (CSS3): Stands for Hue, Saturation, Lightness. Hue is 0-360, Saturation is a %, and Lightness is a % with 0% being white and 100% being black. A stands for Alpha and represents transparency between 0.0 and 1.0. Good idea to add an extra rule which specifies color with hex code, RGB, or color name as a fallback. 
 
+[⬅ Back to README Home](README.md)
