@@ -3,7 +3,7 @@ While every computer comes with its own text editor for coding and building webs
 
 * Code Completion: As you type code, this feature in a text editor will offer assumptions and suggestions which can save time and reduce typing errors
 * Syntax Highlighting: This is essentially color coding for various features in your code to distinguish features from one another
-* Themes: allow you to change the color of your text editor to reduce eyestrain. 
+* Themes: Allow you to change the color of your text editor to reduce eyestrain. 
 * Extensions: plugins that allow you to add functionality to your coding processes
 
 ### Common Text Editors
@@ -52,5 +52,4 @@ The following is a compilation of notes from these articles:
 * Note that commands are case sensitive
 * You separate items in your command with spaces. However, if your file has a space in it already, you can put quotes around it so the terminal reads it as one file or you can put a backslash (\ ) between your words to nullify the meaning of the next character. 
 
-
-Return to [README](README.md)
+[⬅ Back to README Home](README.md)
