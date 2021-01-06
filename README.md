@@ -12,6 +12,7 @@ This a collection of my reading notes for CodeFellows.
 - [coders_computer](coders_computer.md)
 - [Revisions and the Cloud](Revisions_and_the_Cloud.md)
 - [HTML & CSS](HTML.md)
+- [Design web pages with CSS](design_web_pages_with_CSS.md)
 - About Me
 - Growth Mindset
 
