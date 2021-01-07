@@ -15,6 +15,8 @@ This a collection of my reading notes for CodeFellows.
 - [Design web pages with CSS](design_web_pages_with_CSS.md)
 - [Dynamic web pages with JavaScript](Read06a.md)
 - [Computer Architecture and Logic](Read06b.md)
+- [Programming with JavaScript](Read07.md)
+- [Operators and Loops](Read08.md)
 - About Me
 - Growth Mindset
 
