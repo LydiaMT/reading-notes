@@ -13,6 +13,8 @@ This a collection of my reading notes for CodeFellows.
 - [Revisions and the Cloud](Revisions_and_the_Cloud.md)
 - [HTML & CSS](HTML.md)
 - [Design web pages with CSS](design_web_pages_with_CSS.md)
+- [Dynamic web pages with JavaScript](Read06a.md)
+- [Computer Architecture and Logic](Read06b.md)
 - About Me
 - Growth Mindset
 
