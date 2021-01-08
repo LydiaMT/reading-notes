@@ -25,9 +25,9 @@ Operand doesn't have to be a single variable, it can be an expression.
 
 ## **for** and **while** loops: 170 - 173, and 176
 
-* For: Most common loop. If you need to run code a specific number of times, use a for loop. Conditoin is *usually* a counter which is used to tell how many times the loop should run
+* For: Most common loop. If you need to run code a specific number of times, use a for loop. Condition is *usually* a counter which is used to tell how many times the loop should run
 * While: If you do not know how many times the code should run, use while loop. Condition can be something other than a counter, and code will continue to loop for as long as the condition is true. 
-* Do while: similar to while loop, but it will always run the statements inside the curly braces at least once, even if the condition evalutes to false. 
+* Do while: similar to while loop, but it will always run the statements inside the curly braces at least once, even if the condition evaluates to false. 
 ```md
 for (var i = 0; i < 10; i++) {
     document.write(i);
@@ -39,7 +39,7 @@ for (var i = 0; i < 10; i++) {
 
 * Initialization: create a variable and set it to 0
 * Condition: loop will run until the counter reaches a specific number
-* Update: every time the loop has run the statements in the curly braces, it addes one to the counter. 
+* Update: every time the loop has run the statements in the curly braces, it adds one to the counter. 
 
 
 [⬅ Back to README Home](README.md)
