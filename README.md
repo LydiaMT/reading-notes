@@ -17,6 +17,7 @@ This a collection of my reading notes for CodeFellows.
 - [Computer Architecture and Logic](Read06b.md)
 - [Programming with JavaScript](Read07.md)
 - [Operators and Loops](Read08.md)
+- [Final Notes](review.md)
 - About Me
 - Growth Mindset
 
