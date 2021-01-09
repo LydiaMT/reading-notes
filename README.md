@@ -18,8 +18,6 @@ This a collection of my reading notes for CodeFellows.
 - [Programming with JavaScript](Read07.md)
 - [Operators and Loops](Read08.md)
 - [Final Notes](review.md)
-- About Me
-- Growth Mindset
 
 
 ### About Me
