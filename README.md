@@ -19,6 +19,20 @@ This a collection of my reading notes for CodeFellows.
 - [102: Read 08 - Operators and Loops](102_Read08.md)
 - [102: Final Notes](102_review.md)
 - [201: Read01 - Recap](201_Read01.md)
+- [201: Read02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201_Read02.md)
+- [201: Read03 - HTML Lists, CSS Boxes, JS Control Flow](201_Read03.md)
+- [201: Read04 - HTML Links, CSS Layout, JS Functions](201_Read04.md)
+- [201: Read05 - HTML Images; CSS Color & Text](201_Read05.md)
+- [201: Read06 - JS Object Literals; The DOM](201_Read06.md)
+- [201: Read07 - HTML Tables; JS Constructor Functions](201_Read07.md)
+- [201: Read08 - More CSS Layout](201_Read08.md)
+- [201: Read09 - Forms and Events](201_Read09.md)
+- [201: Read10 - JS Debugging](201_Read10.md)
+- [201: Read11 - Assorted Topics](201_Read11.md)
+- [201: Read12 - Docs for the HTML `<canvas>` Element & Chart.js](201_Read12.md)
+- [201: Read13 - Local Storage](201_Read13.md)
+- [201: Read14a - CSS Transforms, Transitions, and Animations](201_Read14a.md)
+- [201: Read14b - What Google Learned About Teams](201_Read14b.md)
 
 
 ### About Me
