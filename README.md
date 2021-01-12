@@ -18,6 +18,7 @@ This a collection of my reading notes for CodeFellows.
 - [102: Read07 - Programming with JavaScript](102_Read07.md)
 - [102: Read 08 - Operators and Loops](102_Read08.md)
 - [102: Final Notes](102_review.md)
+- [201: Read01 - Recap](201_Read01.md)
 
 
 ### About Me
