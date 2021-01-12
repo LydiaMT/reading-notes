@@ -8,16 +8,16 @@ Lydia Minehan-Tubic
 This a collection of my reading notes for CodeFellows. 
 
 #### Table of Contents
-- [markdown file](markdown.md)
-- [coders_computer](coders_computer.md)
-- [Revisions and the Cloud](Revisions_and_the_Cloud.md)
-- [HTML & CSS](HTML.md)
-- [Design web pages with CSS](design_web_pages_with_CSS.md)
-- [Dynamic web pages with JavaScript](Read06a.md)
-- [Computer Architecture and Logic](Read06b.md)
-- [Programming with JavaScript](Read07.md)
-- [Operators and Loops](Read08.md)
-- [Final Notes](review.md)
+- [102: Read01 - Markdown File](102_Read01.md)
+- [102: Read02 - Coders Computer](102_Read02.md)
+- [102: Read03 - Revisions & the Cloud](102_Read03.md)
+- [102: Read04 - HTML & CSS](102_Read04.md)
+- [102: Read05 - Design web pages with CSS](102_Read05.md)
+- [102: Read06a - Dynamic web pages with JavaScript](102_Read06a.md)
+- [102: Read06b - Computer Architecture and Logic](102_Read06b.md)
+- [102: Read07 - Programming with JavaScript](102_Read07.md)
+- [102: Read 08 - Operators and Loops](102_Read08.md)
+- [102: Final Notes](102_review.md)
 
 
 ### About Me
