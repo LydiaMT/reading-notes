@@ -8,7 +8,9 @@ Lydia Minehan-Tubic
 This a collection of my reading notes for CodeFellows. 
 
 ### Table of Contents
+
 ## Code 102 - Intro to Software Development
+
 - [102: Read01 - Markdown File](102_Read01.md)
 - [102: Read02 - Coders Computer](102_Read02.md)
 - [102: Read03 - Revisions & the Cloud](102_Read03.md)
@@ -19,7 +21,9 @@ This a collection of my reading notes for CodeFellows.
 - [102: Read07 - Programming with JavaScript](102_Read07.md)
 - [102: Read 08 - Operators and Loops](102_Read08.md)
 - [102: Final Notes](102_review.md)
+
 ## Code 201 - Foundations of Software Development
+
 - [201: Read01 - Recap](201_Read01.md)
 - [201: Read02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201_Read02.md)
 - [201: Read03 - HTML Lists, CSS Boxes, JS Control Flow](201_Read03.md)
@@ -35,7 +39,9 @@ This a collection of my reading notes for CodeFellows.
 - [201: Read13 - Local Storage](201_Read13.md)
 - [201: Read14a - CSS Transforms, Transitions, and Animations](201_Read14a.md)
 - [201: Read14b - What Google Learned About Teams](201_Read14b.md)
+
 ## Code 301 - Intermediate Software Development
+
 - [301: Read01 - SMACSS and Responsive Web Design](301_Read01.md)
 - [301: Read: 02 - jQuery, Events, and The DOM](301_Read02.md)
 - [301: Read: 03 - Flexbox and Templating](301_Read03.md)
@@ -52,6 +58,7 @@ This a collection of my reading notes for CodeFellows.
 - [301: Read: 14a - DB Normalization](301_Read14a.md)
 - [301: Read: 14b - Project Ideas & APIs](301_Read14b.md)
 - [301: Read: 15 - Diversity and Inclusion](301_Read15.md)
+
 ## Code 401 - Advanced Software Development
 
 
