@@ -60,7 +60,7 @@ This a collection of my reading notes for CodeFellows.
 - [301: Read: 15 - Diversity and Inclusion](301_Read15.md)
 
 ### Code 401 - Advanced Software Development
-
+- [Prep: Readings ... Get Ready for 401](401_PreWork.md)
 
 ### About Me
 I am passionate about the environment and sustainability. I practice and teach yoga. Animal Crossing New Horizons enthusiast! You can find more of my work on my [GitHub](https://github.com/LydiaMT)
