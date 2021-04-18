@@ -61,6 +61,7 @@ This a collection of my reading notes for CodeFellows.
 
 ### Code 401 - Advanced Software Development
 - [Prep: Readings ... Get Ready for 401](401_PreWork.md)
+- [Prep: Read: Class01](401_Read_Class01.md)
 
 ### About Me
 I am passionate about the environment and sustainability. I practice and teach yoga. Animal Crossing New Horizons enthusiast! You can find more of my work on my [GitHub](https://github.com/LydiaMT)
