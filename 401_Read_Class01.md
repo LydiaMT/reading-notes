@@ -1,4 +1,6 @@
-### Read: Class 01
+### Read: Class 01 - Node Ecosystem, TDD, CI/CD
+
+### Review, Research, and Discussion
 
 **1. Describe (in plain English) what Array.map() does**
 
@@ -7,7 +9,7 @@ Array.map() Iterates over an array and returns a **new array** of the same lengt
 
 **2. Describe (in plain English) what Array.reduce() does**
 
-The .reduce() method executes a **reducer function** (that you provide) on each element of the array, resulting in single output value. It runs a callback on every element. It requires an accumulator, which can be a variety of data types (number, array, object, etc.). Great way to restructure something into something else i.e. reshaping data by turning an array of objects into an array of key: value parrings, for example. *Sources: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) , [CodeFellows](https://codefellows.github.io/code-301-guide/curriculum/class-09/challenges/)*
+The .reduce() method executes a **reducer function** (that you provide) on each element of the array, resulting in single output value. It runs a callback on every element. It requires an accumulator, which can be a variety of data types (number, array, object, etc.). Great way to restructure something into something else i.e. reshaping data by turning an array of objects into an array of key: value pairs, for example. *Sources: [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) , [CodeFellows](https://codefellows.github.io/code-301-guide/curriculum/class-09/challenges/)*
 
 **3. Provide code snippets showing how to use superagent() to fetch data from a URL and log the result**
 
@@ -63,3 +65,5 @@ Think of a promise in terms of a real life situation. Say you are at a restauran
 **5. Are all callback functions considered to be Asynchronous? Why or Why Not?**
 
 In short: No, it depends on the situation. Callbacks invoke other functions whereas Asynchronous functions await a Promise. 
+
+[⬅ Back to README Home](README.md)

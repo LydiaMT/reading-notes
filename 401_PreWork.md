@@ -69,3 +69,5 @@ Random take-aways
 ### The Super Mario Effect
 
 View failure as a game rather than a penalization! It's an opportunity to learn from your failure rather than giving up i.e.The Super Mario Effect. When you don't see failing in a negative light you typically see more success. It's all about how you frame the learning processes. Even tests can be seen as a game :). The approach to programming can also be viewed as a game!
+
+[⬅ Back to README Home](README.md)
