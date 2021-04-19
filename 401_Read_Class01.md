@@ -1,4 +1,4 @@
-### Read: Class 01 - Node Ecosystem, TDD, CI/CD
+## Read: Class 01 - Node Ecosystem, TDD, CI/CD
 
 ### Review, Research, and Discussion
 
