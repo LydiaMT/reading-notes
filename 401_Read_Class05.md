@@ -1,16 +1,6 @@
 ## Implementation: Linked Lists
 
-- Use an analogy
-- Explain a detail in depth
-- Use WHY, WHAT, HOW structure
-- Tutorial / walk through an example
-- Write a quiz
-- Create a vocabulary/definition list
-- Write a cheat sheet
-- Create a diagram / visualization / cartoon of a topic
-- Anthropomorphize the concepts, and write a conversation between them
-- Build a map of the information
-- Construct a fill-in-the-blank worksheet for the topic
+One of the positives of linked lists is they can spread out across memory storage. Since nodes only have to know (1) what data they hold and (2) 'who their neighbors are' they don't need to be stored next to each other in memory such as an array datatype. This means the memory can be scattered everywhere! This makes linked lists a dynamic data type, meaning their structure can easily shrink and grow in memory. Vaidehi Joshi expalins this really well and has some excellent diagrams in this article for other visual learners out there.  
 
 ### Resources
 
