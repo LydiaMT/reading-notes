@@ -67,7 +67,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class04 - Data Modeling](401_Read_Class04.md)
 - [401: Read:Class05 - Implementation: Linked Lists](401_Read_Class05.md)
 - [401: Read:Class06 - Authentication](401_Read_Class06.md)
-- [401: Read:Class07](401_Read_Class07.md)
+- [401: Read:Class07 - Bearer Authorization](401_Read_Class07.md)
 - [401: Read:Class08](401_Read_Class08.md)
 - [401: Read:Class09](401_Read_Class09.md)
 - [401: Read:Class10](401_Read_Class10.md)
