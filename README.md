@@ -70,7 +70,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class07 - Bearer Authorization](401_Read_Class07.md)
 - [401: Read:Class08 - Access Control (ACL)](401_Read_Class08.md)
 - [401: Read:Class11 - Event Driven Applications](401_Read_Class11.md)
-- [401: Read:Class12](401_Read_Class12.md)
+- [401: Read:Class12- Socket.io](401_Read_Class12.md)
 - [401: Read:Class13](401_Read_Class13.md)
 - [401: Read:Class14](401_Read_Class14.md)
 - [401: Read:Class15](401_Read_Class15.md)
