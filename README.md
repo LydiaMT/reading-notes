@@ -73,7 +73,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class12- Socket.io](401_Read_Class12.md)
 - [401: Read:Class13 - Message Queues](401_Read_Class13.md)
 - [401: Read:Class14 - Event Driven Architecture](401_Read_Class14.md)
-- [401: Read:Class16](401_Read_Class16.md)
+- [401: Read:Class16 - AWS: Cloud Servers](401_Read_Class16.md)
 - [401: Read:Class17](401_Read_Class17.md)
 - [401: Read:Class18](401_Read_Class18.md)
 - [401: Read:Class19](401_Read_Class19.md)
