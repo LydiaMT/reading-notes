@@ -76,7 +76,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class16 - AWS: Cloud Servers](401_Read_Class16.md)
 - [401: Read:Class17 - AWS: S3 and Lambda](401_Read_Class17.md)
 - [401: Read:Class18 - AWS: API, Dynamo and Lambda](401_Read_Class18.md)
-- [401: Read:Class19](401_Read_Class19.md)
+- [401: Read:Class19 - AWS: Events](401_Read_Class19.md)
 - [401: Read:Class26](401_Read_Class26.md)
 - [401: Read:Class27](401_Read_Class27.md)
 - [401: Read:Class28](401_Read_Class28.md)
