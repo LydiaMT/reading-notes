@@ -78,7 +78,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class18 - AWS: API, Dynamo and Lambda](401_Read_Class18.md)
 - [401: Read:Class19 - AWS: Events](401_Read_Class19.md)
 - [401: Read:Class26 - Component Based UI](401_Read_Class26.md)
-- [401: Read:Class27](401_Read_Class27.md)
+- [401: Read:Class27 - Props and State](401_Read_Class27.md)
 - [401: Read:Class28](401_Read_Class28.md)
 - [401: Read:Class29](401_Read_Class29.md)
 - [401: Read:Class30](401_Read_Class30.md)
