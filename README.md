@@ -80,7 +80,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class26 - Component Based UI](401_Read_Class26.md)
 - [401: Read:Class27 - Props and State](401_Read_Class27.md)
 - [401: Read:Class28 - Component Composition](401_Read_Class28.md)
-- [401: Read:Class29](401_Read_Class29.md)
+- [401: Read:Class29 - Routing](401_Read_Class29.md)
 - [401: Read:Class30](401_Read_Class30.md)
 - [401: Read:Class31](401_Read_Class31.md)
 - [401: Read:Class32](401_Read_Class32.md)
