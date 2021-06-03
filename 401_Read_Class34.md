@@ -1,4 +1,4 @@
-## Read: Class 34 - <Login /> and <Auth />
+## Read: Class 34 - `<Login />` and `<Auth />`
 
 ### Review, Research, and Discussion
 
@@ -8,7 +8,7 @@ It can house top level settings, context, and themes that are used across your e
 
 **2. Can a component outside of a provider get its context?**
 
-No
+I'm sure there's a way for it to do this, but it's not best practice and should be avoided. In short, no. 
 
 **3. What are some common use cases for using the Context API??**
 
