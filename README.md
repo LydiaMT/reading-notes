@@ -84,7 +84,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class30 - Hooks API](401_Read_Class30.md)
 - [401: Read:Class32 - Custom Hooks](401_Read_Class32.md)
 - [401: Read:Class33 - Context API](401_Read_Class33.md)
-- [401: Read:Class34](401_Read_Class34.md)
+- [401: Read:Class34 - <Login /> and <Auth />](401_Read_Class34.md)
 - [401: Read:Class35](401_Read_Class35.md)
 - [401: Read:Class36](401_Read_Class36.md)
 - [401: Read:Class37](401_Read_Class37.md)
