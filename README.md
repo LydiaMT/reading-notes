@@ -86,7 +86,7 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class33 - Context API](401_Read_Class33.md)
 - [401: Read:Class34 - `<Login />` and `<Auth />`](401_Read_Class34.md)
 - [401: Read:Class36 - Application State with Redux](401_Read_Class36.md)
-- [401: Read:Class37 - Redux | Combined Reducers](401_Read_Class37.md)
+- [401: Read:Class37 - Redux - Combined Reducers](401_Read_Class37.md)
 - [401: Read:Class38 - Redux - Asynchronous Actions](401_Read_Class38.md)
 - [401: Read:Class39 - Redux - Additional Topics](401_Read_Class39.md)
 - [401: Read:Class41](401_Read_Class41.md)
