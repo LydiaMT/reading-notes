@@ -89,8 +89,8 @@ This a collection of my reading notes for CodeFellows.
 - [401: Read:Class37 - Redux - Combined Reducers](401_Read_Class37.md)
 - [401: Read:Class38 - Redux - Asynchronous Actions](401_Read_Class38.md)
 - [401: Read:Class39 - Redux - Additional Topics](401_Read_Class39.md)
-- [401: Read:Class41](401_Read_Class41.md)
-- [401: Read:Class42](401_Read_Class42.md)
+- [401: Read:Class41 - React Native](401_Read_Class41.md)
+- [401: Read:Class42 - Ethics](401_Read_Class42.md)
 
 ### About Me
 I am passionate about the environment and sustainability. I practice and teach yoga. Animal Crossing New Horizons enthusiast! You can find more of my work on my [GitHub](https://github.com/LydiaMT)
