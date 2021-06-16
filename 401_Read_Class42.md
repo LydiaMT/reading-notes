@@ -18,7 +18,7 @@ Review at least one article from both “Ethics in the workplace” and “Ethic
 - [Microsoft Employees demand end of ICE contract](https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html)
 - [Microsoft and the DoD](https://www.businessinsider.com/microsoft-employees-protest-contract-us-army-hololens-2019-2)
 
-### Ethincs in Technology
+### Ethics in Technology
 
 - [Self Driving Car Ethics](https://www.freep.com/story/money/cars/2017/11/21/self-driving-cars-ethics/804805001/)
 - [Ethical dilemma of self driving cars](https://www.theglobeandmail.com/globe-drive/culture/technology/the-ethical-dilemmas-of-self-drivingcars/article37803470/)
