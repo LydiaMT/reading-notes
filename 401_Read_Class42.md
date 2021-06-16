@@ -32,4 +32,14 @@ Review at least one article from both “Ethics in the workplace” and “Ethic
 - [Ethical OS Toolkit](https://ethicalos.org/)
 - [Google AI Principles](https://www.blog.google/technology/ai/ai-principles/)
 
+### Summary
+
+### Amazon Workers Demand Jeff Bezos Cancel Face Recognition Contracts With Law Enforcement
+
+This article talks about how Amazon sold it's facial recognition software Rekognition to police departments and government agencies. Like the stance mentioned by the ACLU in this article, I too agree that this is a powerful tool that can easily be misused by law enforcement. I'm glad to hear that employees and shareholders stood up against this by writing an employee demands letter to remove Palantir from AWS. Palantir provides services to ICE. I think it's super important as developers that we speak up when we recognize that the tools we have created are causing harm or being used in harmful ways that they were not originally intended for, especially to marginalized communities. 
+
+### Big Data is our Civil Rights issue, and we don't know it
+
+Back in the day, data was scarce in a sense, so companies had to be very intentional about the data they were collecting. The article reiterates "You decide what data is about the moment you define its schema". Now, the schema comes later, after the data is collected, because there is less scarcity with newer systems and technology. This is where things get dangerous. The article mentions the idea of 'personalization' through the use of ones data to predict things about them is another word for discrimination. You can start using Big Data to predict things about somones identity which can become a slippery slope to discrimination and civil rights issues., like denying someone a load because of their race or gender. The solutions mentioned by the article were to either tie data to permissions through encryption or enforce regulations through legislation. 
+
 [⬅ Back to README Home](README.md)
